@@ -1,0 +1,25 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+.env
+.venv
+venv/
+env/
+*.log
+.DS_Store
+Thumbs.db
+*.ipynb_checkpoints
+.ipynb_checkpoints/
+# Raw market data downloads (exploratory)
+data/*.csv
+data/*.parquet
+data/*.json
+# Keep data directory itself
+!data/.gitkeep

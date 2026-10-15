@@ -1,0 +1,6 @@
+case,peak_delta_rho,integrated,value
+(a) depletion,-0.7192185884961659,0.7071067811865475,
+(b) replenishment,0.07299649832212415,0.11785113019775097,
+attenuation_ratio_num,,,0.16666666666665686
+attenuation_exp(-d*/ell),,,0.1666666666666667
+attenuation_eps/rho_q,,,0.16666666666666669
